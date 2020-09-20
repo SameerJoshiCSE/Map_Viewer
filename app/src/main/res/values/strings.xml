@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mccexp13</string>
+    <string name="title_activity_ownmap">Map</string>
+    <string name="title_activity_distmap">Map</string>
+</resources>
